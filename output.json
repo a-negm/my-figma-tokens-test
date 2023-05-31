@@ -1,7 +1,19 @@
 {
   "bg": {
-    "value": "#d6be00",
+    "value": "#d60043",
     "type": "color"
+  },
+  "xs": {
+    "value": "4px",
+    "type": "sizing"
+  },
+  "xu-sp-xs": {
+    "value": "4px",
+    "type": "spacing"
+  },
+  "xu-sp-x": {
+    "value": "8px",
+    "type": "spacing"
   },
   "tokenSetOrder": {
     "0": {
